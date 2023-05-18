@@ -2,7 +2,7 @@
 
 ## General Information
 
-`Library Services & Content Management (LSCM)` of the [United States Government Publishing Office (GPO)](https://www.gpo.gov) created this repository to offer files of MARC bibliographic records of the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov/F) for downloading free of charge. `Library Technical Services (LTS)`, a department of `LSCM`, manages the resources in this repository. The CGP is the GPO’s finding tool for publications of the executive, judicial, and legislative branches, and other entities of the U.S. Federal Government. The CGP records comprise the National Bibliography of U.S. Government Publications and contain descriptive and subject information to enable the discovery of these resources. Many CGP records provide PURL (persistent uniform resource locator) links to the online versions of publications. For more information, please visit the [CGP help pages](https://catalog.gpo.gov/cgphelp/en/help.html).
+Library Services & Content Management (LSCM) of the [United States Government Publishing Office (GPO)](https://www.gpo.gov) created this repository to offer files of MARC bibliographic records of the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov/F) for downloading free of charge. Library Technical Services (LTS), a department of LSCM, manages the resources in this repository. The CGP is the GPO’s finding tool for publications of the executive, judicial, and legislative branches, and other entities of the U.S. Federal Government. The CGP records comprise the National Bibliography of U.S. Government Publications and contain descriptive and subject information to enable the discovery of these resources. Many CGP records provide PURL (persistent uniform resource locator) links to the online versions of publications. For more information, please visit the [CGP help pages](https://catalog.gpo.gov/cgphelp/en/help.html).
 
 This repository contains two collections: [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files) and [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers). We plan to add more collections in the near future. These files can be used for catalog and collection maintenance purposes.
 
@@ -33,12 +33,6 @@ The collections contain one or more of these resources:
 
 To download the files, use the “Code” button in the right-hand section of this page and select “Download ZIP.” The ZIP file contains all of the files in the repository.
 
-## Contact Information
-
-Library Services and Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Library Technical Services (LTS), a department of LSCM, creates and maintains the collections in the repository.
-
-Please send us your feedback and questions about our repository and records by submitting an inquiry in the `Cataloging/Metadata (Policy and Records)` category via [askGPO](https://ask.gpo.gov/s/).
-
 ## Other LSCM Repositories
 
 LSCM also maintains and develops five other repositories:
@@ -48,3 +42,9 @@ LSCM also maintains and develops five other repositories:
 - [All CGP Records (MARC XML)](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
+
+## Contact Information
+
+Library Services and Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Library Technical Services (LTS), a department of LSCM, creates and maintains the collections in the repository.
+
+Please send your feedback and questions about our repository and records to LTS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
