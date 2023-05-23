@@ -17,7 +17,9 @@ LTS is transitioning the [CGP Records Monthly Files](https://github.com/usgpo/ca
 | *Name*       | *No. of Records*       | *Last Update*       | *Record Formats*       | *Cataloging Dates*
 :-----------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:
 | [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files) | 25,918 | 4/18/2023 | All | 9/2022-3/2023 |
-| [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers) | 4,959 | 1/24/2023 | Online | All
+| [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers) | 4,959 | 1/24/2023 | Online | All |
+| **Total Number of Records** | **30,877**
+------------
 
 The collections in this repository include files that can be used for cataloging/metadata maintenance and collection management purposes, such as adding new records, replacing changed records, and removing records that LSCM deleted from the CGP.
 
@@ -35,11 +37,11 @@ To download the files, use the “Code” button in the right-hand section of th
 
 ## Other LSCM Repositories
 
-LSCM also maintains and develops five other repositories:
+LSCM develops and maintains other repositories:
 
-- [CGP on GitHub](https://github.com/usgpo/cataloging-records)
 - [All CGP Records (MARC UTF-8)](https://github.com/usgpo/cataloging-records-all-cgp-utf8)
 - [All CGP Records (MARC XML)](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
+- [CGP on GitHub](https://github.com/usgpo/cataloging-records)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
 
