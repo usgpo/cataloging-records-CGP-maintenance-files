@@ -18,7 +18,8 @@ LTS is transitioning the [CGP Records Monthly Files](https://github.com/usgpo/ca
 :-----------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:
 | [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files) | 25,918 | 4/18/2023 | All | 9/2022-3/2023 |
 | [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers) | 4,959 | 1/24/2023 | Online | All |
-| **Total Number of Records** | **30,877**
+| [Discontinuation of Microfiche Distribution to FDLP Libraries](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Discontinuation_of_Microfiche_Distribution_to_FDLP_Libraries) | 384 | 6/21/2023 | MF | All |
+| **Total Number of Records** | **31,261**
 ------------
 
 The collections in this repository include files that can be used for cataloging/metadata maintenance and collection management purposes, such as adding new records, replacing changed records, and removing records that LSCM deleted from the CGP.
