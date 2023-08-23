@@ -16,7 +16,7 @@ In conjunction with the CGP Records Monthly Files collection, LSCM produces an a
 | [CGP Records with PURLs](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Records_with_GPO_PURLs) | 262,901 | 8/17/2023 | Online | All |
 | [Discontinuation of Microfiche Distribution to FDLP Libraries](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Discontinuation_of_Microfiche_Distribution_to_FDLP_Libraries) | 391 | 6/21/2023 | MF | All |
 | [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers) | 4,959 | 1/24/2023 | Online | All |
-| **Total Number of Records** | **322,209**
+| **Total Number of Records** | **294,169**
 ------------
 
 The collections in this repository include files that can be used for cataloging/metadata maintenance and collection management purposes, such as adding new records, replacing changed records, and removing records that LSCM deleted from the CGP.
