@@ -7,9 +7,7 @@ This collection contains files of MARC records for House and Senate bills and re
 - Joint resolutions
 - Simple resolutions
 
-***Please Note: The records do not have OCLC numbers. In the near future, we will add the OCLC numbers in MARC 035 System Control Number fields to the records and re-post the files.***
-
-The first set of records are for the 256 House bills and resolutions published in August in GovInfo. The files are available in MARC and MARC XML files in UTF-8 encoding. During the six-month beta period, we will post monthly files of new records and cumulative files of previously posted records. After the beta period, we would post quarterly files of new records and the cumulative files.
+The first set of records are for the 256 House bills and resolutions published in August in GovInfo. The records contain OCLC numbers and Superintendent of Documents Classification numbers. The files are available in MARC and MARC XML files in UTF-8 encoding. During the six-month beta period, we will post monthly files of new records and cumulative files of previously posted records. After the beta period, we would post quarterly files of new records and the cumulative files.
 
 The publications are cataloged as integrating resources based on the introduced versions of the bills and resolutions. The intention of this treatment is to make the records a starting point for information about the versions that are published and the actions that occur during the legislative process. Therefore, the records are linked to the great resources on GovInfo (PURLs to the related documents page) and Congress.gov (URLs to the summary page) for each measure. The records may be retrieved by the CGP expert mode search: [wlts=BILLSRESOLUTIONS](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dbillsresolutions&x=55&y=15).
 
