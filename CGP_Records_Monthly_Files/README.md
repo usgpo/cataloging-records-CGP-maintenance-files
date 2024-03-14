@@ -12,6 +12,6 @@ Each of the files includes the following categories of bibliographic records:
 
 - Records created or changed by the LTS staff with valid OCLC numbers
 - Records created/updated as part of the Historic Shelflist project
-- Newly created/updated brief bibliographic records
+- Newly updated brief bibliographic records
 
 The collection also includes `.txt` files with the OCLC and CGP system numbers of the records deleted from the CGP.
