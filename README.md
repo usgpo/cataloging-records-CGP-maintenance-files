@@ -10,12 +10,12 @@ In conjunction with the CGP Records Monthly Files collection, LSCM produces an a
 
 | *Name*       | *No. of Records*       | *Last Update*       | *Record Formats*       | *Cataloging Dates*
 :-----------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:
-| [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files) | 4,291 | 4/15/2024 | All | 1/2024-2/2024 |
-| [CGP Records with PURLs](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_with_PURLs) | 262,901 | 8/17/2023 | Online | All |
-| [Congressional Bills and Resolutions](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Bills_and_Resolutions) | 256 | 10/17/2023 | All | 8/2023 |
-| [Discontinuation of Microfiche Distribution to FDLP Libraries](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Discontinuation_of_Microfiche_Distribution_to_FDLP_Libraries) | 391 | 6/21/2023 | MF | All |
-| [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers) | 4,959 | 1/24/2023 | Online | All |
-| **Total Number of Records** | **271,330**
+| [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files) | 7,055 | 6/18/2024 | All | 1/2024-5/2024
+| [CGP Records with PURLs](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_with_PURLs) | 262,901 | 8/17/2023 | Online | All
+| [Congressional Bills and Resolutions](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Bills_and_Resolutions) | 256 | 10/17/2023 | All | 8/2023
+| [Discontinuation of Microfiche Distribution to FDLP Libraries](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Discontinuation_of_Microfiche_Distribution_to_FDLP_Libraries) | 391 | 6/21/2023 | MF | All
+| [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers) | 4,959 | 1/24/2023 | Online | All
+| **Total Number of Records** | **275,562**
 ------------
 
 The collections in this repository include files that can be used for cataloging/metadata maintenance and collection management purposes, such as adding new records, replacing changed records, and removing records that LSCM deleted from the CGP.
