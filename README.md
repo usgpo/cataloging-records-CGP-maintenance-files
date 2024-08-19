@@ -2,7 +2,7 @@
 
 ## General Information
 
-Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), of Library Services & Content Management (LSCM), [United States Government Publishing Office (GPO)](https://www.gpo.gov) developed and maintains this repository to offer files of MARC bibliographic records of the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov/F) for downloading free of charge. The CGP is the GPO’s finding tool for publications of the executive, judicial, and legislative branches, and other entities of the U.S. Federal Government. The CGP records comprise the National Bibliography of U.S. Government Publications and contain descriptive and subject information to enable the discovery of these resources. Many CGP records provide PURL (persistent uniform resource locator) links to the online versions of publications. For more information, please visit the [CGP help pages](https://catalog.gpo.gov/cgphelp/en/help.html). These files can be used for catalog and collection maintenance purposes.
+Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), of Library Services & Content Management (LSCM), [United States Government Publishing Office (GPO)](https://www.gpo.gov) developed and maintains this repository. This repository offers files of MARC bibliographic records of the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov/F) for downloading free of charge. The CGP is the GPO’s finding tool for publications of the executive, judicial, and legislative branches, and other entities of the U.S. Federal Government. The CGP records comprise the National Bibliography of U.S. Government Publications and contain descriptive and subject information to enable the discovery of these resources. Many CGP records provide PURL (persistent uniform resource locator) links to the online versions of publications. For more information, please visit the [CGP help pages](https://catalog.gpo.gov/cgphelp/en/help.html). These files can be used for catalog and collection maintenance purposes.
 
 In conjunction with the CGP Records Monthly Files collection, LSCM produces an annual set of files of the new and changed CGP records of each calendar year. MCS generally posts the files of the records during the following February. MCS posts the files in these repositories: [All CGP Records (MARC)](https://github.com/usgpo/cataloging-records-all-cgp-utf8) and [All CGP Records (MARC XML)](https://github.com/usgpo/cataloging-records-all-cgp-marcxml). MCS retains the monthly files in the [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files) collection of this repository posted during the year between each annual set of all CGP records.
 
@@ -38,12 +38,11 @@ LSCM develops and maintains other repositories:
 
 - [All CGP Records (MARC UTF-8)](https://github.com/usgpo/cataloging-records-all-cgp-utf8)
 - [All CGP Records (MARC XML)](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
-- [U.S. Catalog of Government Publications on GitHub](https://github.com/usgpo/cataloging-records)
+- [CGP Geographic-Based Record Sets](https://github.com/usgpo/cataloging-records-geographic-based)
+- [CGP on GitHub](https://github.com/usgpo/cataloging-records)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
 
 ## Contact Information
-
-Library Services and Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), a department of LSCM, developed and maintains the collections in the repository.
 
 Please send your feedback and questions about our repository and records to MCS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
