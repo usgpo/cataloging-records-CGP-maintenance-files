@@ -10,7 +10,7 @@ The records are available in UTF-8, MARC-8, and MARCXML formats. The naming conv
 
 Each of the files includes the following categories of bibliographic records:
 
-- Records created or changed by the LTS staff with valid OCLC numbers
+- Records created or changed by the MCS staff with valid OCLC numbers
 - Records created/updated as part of the Historic Shelflist project
 - Newly updated brief bibliographic records
 
