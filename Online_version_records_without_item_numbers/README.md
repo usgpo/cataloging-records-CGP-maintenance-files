@@ -1,6 +1,6 @@
 # Online Version Records without Item Numbers
 
-When GPO catalogs online resources and does not include item numbers, these records are not distributed to Federal depository libraries through the item selection system. Therefore Federal depository libraries have not received these records from LSCM. LTS has not provided item numbers in various situations:
+When GPO catalogs online resources and does not include item numbers, these records are not distributed to Federal depository libraries through the item selection system. Therefore, Federal depository libraries have not received these records from LSCM. MCS has not provided item numbers in various situations:
 
 - The publication was distributed before 1940, and no item number was assigned at the time of distribution.
 - The document was published after October 1942, and no item number was found in the Monthly Catalog of U.S. Government Publications.
