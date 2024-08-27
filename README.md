@@ -10,7 +10,7 @@ In conjunction with the CGP Records Monthly Files collection, LSCM produces an a
 
 | *Name*       | *No. of Records*       | *Last Update*       | *Record Formats*       | *Cataloging Dates*
 :-----------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:
-| [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files) | 7,055 | 6/18/2024 | All | 1/2024-5/2024
+| [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files) | 9,398 | 8/27/2024 | All | 1/2024-7/2024
 | [CGP Records with PURLs](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_with_PURLs) | 262,901 | 8/17/2023 | Online | All
 | [Congressional Bills and Resolutions](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Bills_and_Resolutions) | 256 | 10/17/2023 | All | 8/2023
 | [Discontinuation of Microfiche Distribution to FDLP Libraries](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Discontinuation_of_Microfiche_Distribution_to_FDLP_Libraries) | 391 | 6/21/2023 | MF | All
