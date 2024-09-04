@@ -15,7 +15,8 @@ In conjunction with the CGP Records Monthly Files collection, LSCM produces an a
 | [Congressional Bills and Resolutions](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Bills_and_Resolutions) | 256 | 10/17/2023 | All | 8/2023
 | [Discontinuation of Microfiche Distribution to FDLP Libraries](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Discontinuation_of_Microfiche_Distribution_to_FDLP_Libraries) | 391 | 6/21/2023 | MF | All
 | [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers) | 4,959 | 1/24/2023 | Online | All
-| **Total Number of Records** | **275,562**
+| [Congressionally Mandated Reports](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Congressionally_Mandated_Reports) | 201 | 9/4/2024 | Online | All
+| **Total Number of Records** | **275,763**
 ------------
 
 The collections in this repository include files that can be used for cataloging/metadata maintenance and collection management purposes, such as adding new records, replacing changed records, and removing records that LSCM deleted from the CGP.
