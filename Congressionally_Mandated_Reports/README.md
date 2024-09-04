@@ -8,6 +8,8 @@ This collection contains the 201 records added to the CGP in June and July 2024.
 
 MCS is very interested in hearing from you about your experience using these records and others in our GitHub repositories. MCS welcomes recommendations and comments via [askGPO](https://ask.gpo.gov/s/) inquiries in the "Cataloging/Metadata (Policies and Records)" category.
 
+This list contains 201 records, and is current as of September 4, 2024.
+
 ----
 | *Title* | *CGP* | *Author* | *Date* | *SuDoc*
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------
