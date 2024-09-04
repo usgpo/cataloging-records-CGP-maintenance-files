@@ -4,7 +4,7 @@ Federal agencies must now submit congressionally mandated reports to GPO in comp
 
 As of September 3, 2024, Metadata and Collection Services (MCS) has cataloged 264 records for congressionally mandated reports in the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov/). The records are based on the MODS metadata of the GovInfo [Congressionally Mandated Reports collection](https://www.govinfo.gov/app/collection/cmr). MCS staff members complete and authenticate the records for the Program for Cooperative Cataloging (PCC). The records may be retrieved in the CGP by the expert mode search: [WLTS=CMR](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dcmr&x=0&y=0).
 
-This collection contains the 156 records added to the CGP in June and July 2024. The records are available in MARC UTF-8 and XML files.
+This collection contains the 201 records added to the CGP in June and July 2024. The records are available in MARC UTF-8 and XML files.
 
 MCS is very interested in hearing from you about your experience using these records and others in our GitHub repositories. MCS welcomes recommendations and comments via [askGPO](https://ask.gpo.gov/s/) inquiries in the "Cataloging/Metadata (Policies and Records)" category.
 
