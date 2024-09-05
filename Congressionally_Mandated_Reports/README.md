@@ -6,7 +6,7 @@ As of September 4, 2024, Metadata and Collection Services (MCS) has cataloged 26
 
 This collection contains the 201 records added to the CGP in June and July 2024. The records are available in MARC UTF-8 and XML files.
 
-[`Click here to see the list of records`](./CMR_Display_Page.md)
+[`Click here to see the list of records`](/Congressionally_Mandated_Reports/CMR_Records_Display_Page.md)
 
 MCS is very interested in hearing from you about your experience using these records and others in our GitHub repositories. MCS welcomes recommendations and comments via [askGPO](https://ask.gpo.gov/s/) inquiries in the "Cataloging/Metadata (Policies and Records)" category.
 
