@@ -17,13 +17,13 @@ The records contain OCLC numbers and Superintendent of Documents Classification 
 MCS would like to emphasize that we are in the initial phase of the process. MCS will continue to evaluate the records and to enhance the metadata. MCS is aware of several issues, such as the capitalization of title words and the broad application of the Library of Congress subject headings and Congress.gov Policy Areas terms.
 MCS is very interested in hearing from you about your experience using these records and others in our GitHub repositories. MCS welcomes recommendations and comments via [askGPO](https://ask.gpo.gov/s/) inquiries in the "Cataloging/Metadata (Policies and Records)" category.
 
-## Bills/Resolutions Counts By Chamber and Date
+## Counts By Chamber and Date
 
 | House of Representatives |
 |:-----:|
 
 |  | All | Bills | Simple Resolutions | Joint Resolutions | Concurrent Resolutions |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|:-----:|
 | August 2023 | 260 | 226 | 30 | 2 | 2 |
 | September 2023 | 633 | 541 | 76 | 9 | 7 |
 | October 2023 | 339 | 263 | 71 | 1 | 4 |
@@ -40,7 +40,7 @@ MCS is very interested in hearing from you about your experience using these rec
 |:-----:|
 
 |  | All | Bills | Simple Resolutions | Joint Resolutions | Concurrent Resolutions |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-----|:-----:|:-----:|:-----:|:-----:|:-----:|
 | August 2023 | 0 | 0 | 0 | 0 | 0 |
 | September 2023 | 324 | 284 | 35 | 4 | 1 |
 | October 2023 | 190 | 168 | 18 | 1 | 3 |
