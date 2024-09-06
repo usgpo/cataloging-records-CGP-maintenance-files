@@ -10,7 +10,7 @@ This collection contains the 201 records added to the CGP in June and July 2024.
 
 MCS is very interested in hearing from you about your experience using these records and others in our GitHub repositories. MCS welcomes recommendations and comments via [askGPO](https://ask.gpo.gov/s/) inquiries in the "Cataloging/Metadata (Policies and Records)" category.
 
-We have compiled some preliminary data about the records.
+We have compiled some preliminary data about the records. We cataloged a collection-level record for the reports required by the Congressional Review Act: CGP [001411937](https://catalog.gpo.gov/F/?func=direct&doc_number=001411937&local_base=GPO01PUB).
 
 | Total Records | 201 |
 |:-----|:-----|
