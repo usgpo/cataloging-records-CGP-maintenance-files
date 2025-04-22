@@ -7,4 +7,4 @@ When GPO catalogs online resources and does not include item numbers, these reco
 - The document was published before October 1942, when GPO started to print item numbers in the Monthly Catalog of U.S. Government Publications.
 - At the time of cataloging, the issuing agency was no longer active.
 
-Please send us your feedback and questions about our repository and records by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
+For questions and feedback about the repositories, collections, and resources, please submit inquiries via [askGPO](https://ask.gpo.gov/s/). Select the Federal Depository Library tile and then the Cataloging/Metadata (Policy and Records) category.
