@@ -1,4 +1,4 @@
-# Catalog of U.S. Government Publications (CGP) Records Maintenance Files
+# CGP Maintenance
 
 ## General Information
 
@@ -20,7 +20,7 @@ The collections contain one or more of these resources:
 
 To download the files, use the “Code” button in the right-hand section of this page and select “Download ZIP.” The ZIP file contains all of the files in the repository.
 
-## What's New
+## Repository Updates
 
 To provide more specific sets of records, we have added separate sets of online records and tangible records:
 
@@ -29,7 +29,7 @@ To provide more specific sets of records, we have added separate sets of online 
 - Tangible changed records
 - Tangible new records
 
-## Collections List 1034
+## Collections List 
 
 | *Name*       | *No. of Records*       | *Last Update*       | *Record Formats*       | *Cataloging Dates*
 :-----------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:
@@ -77,6 +77,6 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
 - The resources in the repository on that date will be available for viewing and downloading.
 
 
-## Contact Information
+## Feedback and Questions
 
-Please send your feedback and questions about our repository and records to MCS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
+For questions and feedback about the repositories, collections, and resources, please submit inquiries via [askGPO](https://ask.gpo.gov/s/). Select the Federal Depository Library tile and then the Cataloging/Metadata (Policy and Records) category.
