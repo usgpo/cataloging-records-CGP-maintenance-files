@@ -19,7 +19,7 @@ The collections contain one or more of these resources:
 - Record display pages of several major metadata elements and the titles linked to the PURLs and the CGP numbers linked to the records
 
 To download the files, use the “Code” button in the right-hand section of this page and select “Download ZIP.” The ZIP file contains all of the files in the repository.
-
+------------
 ## Repository Updates
 
 To provide more specific sets of records, we have added separate sets of online records and tangible records:
@@ -28,6 +28,7 @@ To provide more specific sets of records, we have added separate sets of online 
 - Online new records
 - Tangible changed records
 - Tangible new records
+------------
 
 ## Collections List 
 
