@@ -52,6 +52,7 @@ LSCM develops and maintains other repositories:
 - [CGP on GitHub](https://github.com/usgpo/cataloging-records)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
+------------
 
 ## Repository History and Versions
 
@@ -75,7 +76,7 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
   - ![Image shows pointer to "Browse the repository at this point in the history" link](images/browse_historical_collections.png)
 - The main page of the repository on that date will be displayed.
 - The resources in the repository on that date will be available for viewing and downloading.
-
+------------
 
 ## Feedback and Questions
 
