@@ -18,7 +18,6 @@ The collections contain one or more of these resources:
 - PDFs of multiple major metadata elements of the records and the titles linked to the PURLs and the CGP record numbers link to the records
 - Record display pages of several major metadata elements and the titles linked to the PURLs and the CGP numbers linked to the records
 
-To download the files, use the “Code” button in the right-hand section of this page and select “Download ZIP.” The ZIP file contains all of the files in the repository.
 ------------
 ## Repository Updates
 
