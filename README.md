@@ -43,6 +43,19 @@ To provide more specific sets of records, we have added separate sets of online 
 | **Total Number of Records** | **318,757**
 ------------
 
+## How to Use the Repository Resources
+
+Downloading Instructions
+When downloading files from the repository, all files in the repository are included in the downloaded zip file.
+
+In the top right-hand section of this page, click on the “Code” button.
+Click on “Download ZIP.”
+A ZIP file with all files in the repository will be downloaded.
+Unzip the file with a zip utility.
+The zip file can also be downloaded directly at this link: https://github.com/usgpo/cataloging-records-CGP-maintenance-files/archive/refs/heads/main.zip
+
+------------
+
 ## Other LSCM Repositories
 
 LSCM develops and maintains other repositories:
