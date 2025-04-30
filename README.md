@@ -1,4 +1,4 @@
-# Catalog of U.S. Government Publications (CGP) Records Maintenance Files
+# CGP Maintenance
 
 ## General Information
 
@@ -18,9 +18,8 @@ The collections contain one or more of these resources:
 - PDFs of multiple major metadata elements of the records and the titles linked to the PURLs and the CGP record numbers link to the records
 - Record display pages of several major metadata elements and the titles linked to the PURLs and the CGP numbers linked to the records
 
-To download the files, use the “Code” button in the right-hand section of this page and select “Download ZIP.” The ZIP file contains all of the files in the repository.
-
-## What's New
+------------
+## Repository Updates
 
 To provide more specific sets of records, we have added separate sets of online records and tangible records:
 
@@ -28,8 +27,9 @@ To provide more specific sets of records, we have added separate sets of online 
 - Online new records
 - Tangible changed records
 - Tangible new records
+------------
 
-## Collections List 1034
+## Collections List 
 
 | *Name*       | *No. of Records*       | *Last Update*       | *Record Formats*       | *Cataloging Dates*
 :-----------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:
@@ -42,6 +42,19 @@ To provide more specific sets of records, we have added separate sets of online 
 | **Total Number of Records** | **318,757**
 ------------
 
+## How to Use the Repository Resources
+
+Downloading Instructions
+When downloading files from the repository, all files in the repository are included in the downloaded zip file.
+
+In the top right-hand section of this page, click on the “Code” button.
+Click on “Download ZIP.”
+A ZIP file with all files in the repository will be downloaded.
+Unzip the file with a zip utility.
+The zip file can also be downloaded directly at this link: https://github.com/usgpo/cataloging-records-CGP-maintenance-files/archive/refs/heads/main.zip
+
+------------
+
 ## Other LSCM Repositories
 
 LSCM develops and maintains other repositories:
@@ -52,6 +65,7 @@ LSCM develops and maintains other repositories:
 - [CGP on GitHub](https://github.com/usgpo/cataloging-records)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
+------------
 
 ## Repository History and Versions
 
@@ -75,8 +89,8 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
   - ![Image shows pointer to "Browse the repository at this point in the history" link](images/browse_historical_collections.png)
 - The main page of the repository on that date will be displayed.
 - The resources in the repository on that date will be available for viewing and downloading.
+------------
 
+## Feedback and Questions
 
-## Contact Information
-
-Please send your feedback and questions about our repository and records to MCS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
+For questions and feedback about the repositories, collections, and resources, please submit inquiries via [askGPO](https://ask.gpo.gov/s/). Select the Federal Depository Library tile and then the Cataloging/Metadata (Policy and Records) category.
