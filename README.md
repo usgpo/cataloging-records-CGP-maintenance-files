@@ -19,6 +19,7 @@ The collections contain one or more of these resources:
 - Record display pages of several major metadata elements and the titles linked to the PURLs and the CGP numbers linked to the records
 
 ------------
+
 ## Repository Updates
 
 To provide more specific sets of records, we have added separate sets of online records and tangible records:
@@ -27,9 +28,10 @@ To provide more specific sets of records, we have added separate sets of online 
 - Online new records
 - Tangible changed records
 - Tangible new records
+
 ------------
 
-## Collections List 
+## Collections List
 
 | *Name*       | *No. of Records*       | *Last Update*       | *Record Formats*       | *Cataloging Dates*
 :-----------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:
@@ -38,8 +40,9 @@ To provide more specific sets of records, we have added separate sets of online 
 | [Congressional Bills and Resolutions](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Bills_and_Resolutions) | 4,746 | 10/17/2023 | All | 8/2023
 | [Discontinuation of Microfiche Distribution to FDLP Libraries](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Discontinuation_of_Microfiche_Distribution_to_FDLP_Libraries) | 391 | 6/21/2023 | MF | All
 | [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers) | 35,444 | 9/19/2024 | Online | All
-| [Congressionally Mandated Reports](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Congressionally_Mandated_Reports) | 201 | 9/4/2024 | Online | All
-| **Total Number of Records** | **318,757**
+| [Congressionally Mandated Reports](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Congressionally_Mandated_Reports) | 420 | 2/28/2025 | Online | All
+| **Total Number of Records** | **307,843**
+
 ------------
 
 ## How to Use the Repository Resources
@@ -51,7 +54,7 @@ In the top right-hand section of this page, click on the “Code” button.
 Click on “Download ZIP.”
 A ZIP file with all files in the repository will be downloaded.
 Unzip the file with a zip utility.
-The zip file can also be downloaded directly at this link: https://github.com/usgpo/cataloging-records-CGP-maintenance-files/archive/refs/heads/main.zip
+The zip file can also be downloaded directly at this link: [https://github.com/usgpo/cataloging-records-CGP-maintenance-files/archive/refs/heads/main.zip](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/archive/refs/heads/main.zip)
 
 ------------
 
@@ -65,6 +68,7 @@ LSCM develops and maintains other repositories:
 - [CGP on GitHub](https://github.com/usgpo/cataloging-records)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
+
 ------------
 
 ## Repository History and Versions
@@ -89,6 +93,7 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
   - ![Image shows pointer to "Browse the repository at this point in the history" link](images/browse_historical_collections.png)
 - The main page of the repository on that date will be displayed.
 - The resources in the repository on that date will be available for viewing and downloading.
+
 ------------
 
 ## Feedback and Questions
