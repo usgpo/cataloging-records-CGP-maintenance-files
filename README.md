@@ -42,7 +42,8 @@ To provide more specific sets of records, we have added separate sets of online 
 | [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers) | 35,444 | 9/19/2024 | Online | All
 | [Congressionally Mandated Reports](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Congressionally_Mandated_Reports) | 420 | 2/28/2025 | Online | All
 | [2026 CGP Snapshot Online Version Records](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/2026_CGP_Snapshot_Online_Version_Records) | 223,235 | 4/7/2026 | Online | All
-| **Total Number of Records** | **534,411**
+| [FDLP Microfiche Records](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/FDLP_Microfice) | 262,989 | 5/11/2026 | Microfiche | All
+| **Total Number of Records** | **797,309**
 
 ------------
 
