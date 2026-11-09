@@ -35,7 +35,7 @@ To provide more specific sets of records, we have added separate sets of online 
 
 | *Name* | *No. of Records* | *Last Update* | *Record Formats* | *Cataloging Dates*
 | :----------------- | :-----------------: | :-----------------: | :-----------------: | :-----------------:
-| [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files) | 7,274 | 7/2/2025 | All | 1/2025-6/2025
+| [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files) | 26,459 | 11/9/2026 | All | 1/2026-10/2026
 | [CGP Records with PURLs](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_with_PURLs) | 262,901 | 8/17/2023 | Online | All
 | [Congressional Bills and Resolutions](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Bills_and_Resolutions) | 4,746 | 10/17/2023 | All | 8/2023
 | [Discontinuation of Microfiche Distribution to FDLP Libraries](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Discontinuation_of_Microfiche_Distribution_to_FDLP_Libraries) | 391 | 6/21/2023 | MF | All
@@ -43,7 +43,7 @@ To provide more specific sets of records, we have added separate sets of online 
 | [Congressionally Mandated Reports](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Congressionally_Mandated_Reports) | 420 | 2/28/2025 | Online | All
 | [2026 CGP Snapshot Online Version Records](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/2026_CGP_Snapshot_Online_Version_Records) | 223,235 | 4/7/2026 | Online | All
 | [FDLP Microfiche Records](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/FDLP_Microfiche) | 262,989 | 5/11/2026 | MF | All
-| **Total Number of Records** | **797,309**
+| **Total Number of Records** | **816,585**
 
 ------------
 
